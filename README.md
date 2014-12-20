@@ -1,11 +1,6 @@
-Parent POM for builds of Taverna Workbench, Command-Line and Platform
+# Moved to Apache Taverna
 
-[![Build Status](https://travis-ci.org/taverna/taverna-maven-parent.svg?branch=master)](https://travis-ci.org/taverna/taverna-maven-parent)
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-maven-parent](https://github.com/apache/incubator-taverna-maven-parent)
 
-Supplies Version number constants for all the main Taverna dependencies.
-Adds in shared Maven build and reporting steps
-List repositories to be used.
-
-This doess NOT conatin a <modules> section so does NOT do Project Aggregation.
-
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/taverna-parent/
+This repository is kept for historical reasons - see the tags and branches.
